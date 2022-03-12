@@ -1,0 +1,20 @@
+Step 1. Accept 2 numbers 10 and 20
+Setp 2. Calling Add Method
+Setp 3. Addtion is 30
+
+
+Step 1. Accept 2 numbers 5 and 2
+Setp 2. Calling multiply Method
+Setp 3. Multiplication is 10
+
+
+Step 1. Accept 2 numbers 10 and 2
+Setp 2. Calling divide Method
+Setp 3. Division is 5
+
+
+Step 1. Accept 2 numbers 5 and 0
+Setp 2. Calling divide Method
+Setp 3. Error: Can not divide by zero
+
+
